@@ -4,7 +4,7 @@
   Studied [AI & CYBERSECURITY] at the  UNIVERSITY of africa international university ,Kenya<br/>
   Activity  like to solve #tech problem
 pytest
-├── main.py        # Main Python file
+# Main Python file
 
 🎯 Goal
 
