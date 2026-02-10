@@ -2,4 +2,4 @@
     ###  Hi, im Thecla.
   AI & Cybersecurity student enhancing my skills .
   Studied [AI & CYBERSECURITY] at the  UNIVERSITY of africa international university ,Kenya<br/>
-  
+  Activity  like solving  #tech problem
